@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
     EditText etQuery;
     Button btnSearch,btnAboutUs;
     Dialog dialog;
-    final String API_KEY = "1226d04fb2e14c2c9349e8678ef58651";
+    final String API_KEY = "YOUR API KEY";
     Adapter adapter;
     List<Articles>  articles = new ArrayList<>();
     @Override
